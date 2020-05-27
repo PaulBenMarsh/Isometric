@@ -7,6 +7,7 @@ A final playable version will be available in the future on my website.
 The project will be ported to a Single Page Application using Phaser.io and the MERN-Stack (MongoDB, ExpressJS, React and NodeJS).
 
 Technically, it should be called "Dimetric", since the game doesn't really employ a true isometric projection.
+
 <a href="https://i.stack.imgur.com/vmE2V.png">This graphic</a> illustrates the difference.
 
 ![](https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/screenshot.png?raw=true)
