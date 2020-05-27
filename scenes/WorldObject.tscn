@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/WorldObject.gd" type="Script" id=1]
+
+[node name="WorldObject" type="Spatial"]
+script = ExtResource( 1 )

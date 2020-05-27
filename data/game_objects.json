@@ -1,0 +1,25 @@
+{
+  "000": {
+	"type": "unit",
+	
+	"actions": {
+	
+	  "idle": {
+	    "spritesheet": {
+		  "resource": "spritesheet_000_idle_22x8.png",
+		  "rows": 8,
+		  "columns": 22
+		}
+	  },
+	
+	  "walk": {
+	    "spritesheet": {
+		  "resource": "spritesheet_000_walk_24x8.png",
+		  "rows": 8,
+		  "columns": 24
+		}
+	  }
+	
+	}
+  }
+}
