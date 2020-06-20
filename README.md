@@ -10,6 +10,8 @@ Technically, it should be called "Dimetric", since the game doesn't really emplo
 
 <a href="https://i.stack.imgur.com/vmE2V.png">This graphic</a> illustrates the difference.
 
-![](https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/loop.gif?raw=true)
+<p align="center">
+<img src="https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/loop.gif?raw=true">
+</p>
 
 Fun fact: this .gif has a file size that's larger than the entire project's.
