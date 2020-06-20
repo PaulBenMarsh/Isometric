@@ -10,5 +10,5 @@ Technically, it should be called "Dimetric", since the game doesn't really emplo
 
 <a href="https://i.stack.imgur.com/vmE2V.png">This graphic</a> illustrates the difference.
 
-![](https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/screenshot.png?raw=true)
+![](https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/loop.gif?raw=true)
 
