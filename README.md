@@ -12,4 +12,4 @@ Technically, it should be called "Dimetric", since the game doesn't really emplo
 
 ![](https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/loop.gif?raw=true)
 
-Fun fact: this .gif has a file size that's larger than the entire project.
+Fun fact: this .gif has a file size that's larger than the entire project's.
