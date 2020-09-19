@@ -4,7 +4,7 @@
 "Isometric" is a Godot GDScript project to be used as a base for isometric real-time strategy games.
 The models were created using Blender, and rendered as spritesheets using a <a href="https://github.com/PaulBenMarsh/BlenderAPI-IsometricSpritesheet">Python script via the Blender API</a>.
 A final, playable version will be available in the future on my website.
-The project will be ported to a Single Page Application using Phaser.io and the MERN-Stack (MongoDB, ExpressJS, React and NodeJS).
+The project will be ported to a single-page application using Phaser.io and the MERN-Stack (MongoDB, ExpressJS, React and NodeJS).
 
 Technically, it should be called "Dimetric", since the game doesn't really employ a true isometric projection.
 
