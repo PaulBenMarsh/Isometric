@@ -12,4 +12,4 @@ Technically, it should be called "Dimetric". A true isometric projection looks s
 <img src="https://github.com/PaulBenMarsh/Isometric/blob/master/screenshots/loop.gif?raw=true">
 </p>
 
-Fun fact: the file size of this .gif is larger than the file size of the entire project.
+Fun fact: the file size of this .gif is larger than the size of the entire project.
